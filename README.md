@@ -9,3 +9,11 @@ This project was made for market research for Tokyo's Airbnb market. Due to the 
 * Python
 * Tableau
 * Presentation
+
+### Problems to SOLVE
+1. Increased number of listings requires discovering ideal neighbourhoods for Airbnb development
+2. Overly lower booking prices are detrimental to overall Airbnb regional revenues
+3. Lower review scores will lead to less customers and revenues in the future 
+
+### Project GOALS
+Increasing overall revenue for Tokyo Airbnb by 40% requires either finding optimal neighborhoods for Airbnb bookings or discovering key variables that increase booking prices
